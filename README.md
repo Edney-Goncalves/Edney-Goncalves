@@ -5,7 +5,8 @@
 - 🌱 Back-end developer
 - 💲 Passionate about finance
 
-| <a href="https://github.com/Edney-Goncalves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Edney-Goncalves&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Edney's github stats" /></a> | <a href="https:/Edney-Goncalves/github.com//github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edney-Goncalves&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Edney-Goncalves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Edney-Goncalves&show_icons=true&include_all_commits=true&theme=dark" alt="Edney's github stats" />
+</a> | <a href="https:/Edney-Goncalves/github.com//github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edney-Goncalves&layout=compact&theme=dark=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://github.com/Edney-Goncalves/github-readme-stats">
@@ -32,5 +33,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+![Snake animation](https://github.com/Edney-Goncalves/Edney-Goncalves/blob/output/github-contribution-grid-snake.svg
   
 </div>
