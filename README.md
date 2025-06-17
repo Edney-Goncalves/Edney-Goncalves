@@ -1,12 +1,8 @@
 <h1 align="center">Olá, eu sou o Edney! 👋</h1>
 
-- 🛠️ Da indústria aos códigos  
-- 🌱 Estudante de Engenharia de Software e aspirante a desenvolvedor back-end  
-- 💲 Apaixonado por finanças e tecnologia  
-- 📍 Mogi das Cruzes/SP  
-- 🎯 Em transição de carreira, buscando oportunidades de estágio na área de tecnologia  
-
----
+- 🎓 Estudante de Engenharia de Software  
+- 💻 Desenvolvedor Back-end  
+- 🔗 Entusiasta de tecnologias Blockchain
 
 ### 📊 GitHub Stats
 
