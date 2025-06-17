@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo
+### 🚀 Tecnologias que estou utilizando
 
 <div style="display: inline_block"><br>
  
