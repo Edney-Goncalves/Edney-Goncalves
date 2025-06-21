@@ -16,10 +16,10 @@
 ### 📂 Repositórios em destaque
 
 <a href="https://github.com/Edney-Goncalves/Edney-Goncalves">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edney-Goncalves&repo=Edney-Goncalves&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edney-Goncalves&repo=Edney-Goncalves&theme=dark" />
 </a>
 <a href="https://github.com/Edney-Goncalves/my-studies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edney-Goncalves&repo=my-studies&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edney-Goncalves&repo=my-studies&theme=dark" />
 </a>
 
 ---
