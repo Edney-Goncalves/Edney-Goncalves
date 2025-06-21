@@ -40,7 +40,7 @@
 ### 📬 Contato
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edney%20Goncalves-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edney-gon%C3%A7alves10/)
-- 📧 [dneylele@gmail.com](mailto:dneylele@gmail.com)
+- 📧 [Email](mailto:developer.edney@gmail.com)
 
 ---
 
