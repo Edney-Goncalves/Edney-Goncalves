@@ -18,7 +18,7 @@
 <a href="https://github.com/Edney-Goncalves/Edney-Goncalves">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edney-Goncalves&repo=Edney-Goncalves&theme=dark" />
 </a>
-<a href="https://github.com/Edney-Goncalves/my-studies">
+<a href="https://github.com/Edney-Goncalves/login">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edney-Goncalves&repo=login&theme=dark" />
 </a>
 
