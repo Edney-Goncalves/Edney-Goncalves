@@ -4,7 +4,10 @@
 - 💻 Desenvolvedor Back-end  
 - 🔗 Entusiasta de tecnologias Blockchain
 
+### 📊 GitHub Stats
 
+ <a href="https://github.com/Edney-Goncalves"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edney-Goncalves&layout=compact&theme=dark" /></a> |
+| ------------- | ------------- |
 
 > ⚠️ *Se os gráficos acima não aparecerem, pode ser por limite da API. [Configure um token aqui](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) para resolver.*
 
