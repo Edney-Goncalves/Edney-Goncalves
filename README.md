@@ -16,8 +16,8 @@
 <a href="https://github.com/Edney-Goncalves/login">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edney-Goncalves&repo=login&theme=dark" />
 </a>
-<a href="https://github.com/Edney-Goncalves/mini-projeto-sw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edney-Goncalves&repo=mini-projeto-sw&theme=dark" />
+<a href="https://github.com/Edney-Goncalves/mogi_easy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edney-Goncalves&repo=mogi_easy&theme=dark" />
 </a>
 
 ---
