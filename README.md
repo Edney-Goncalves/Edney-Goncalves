@@ -9,7 +9,7 @@
    <br>
       <p> 💻  Eu sou estudante de engenharia de software <p/>
    <br>
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo+ao+meu+perfil;Meus+contatos+estão+abaixo!;Me+dê+uma+estrela!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo+ao+meu+perfil; Meus+contatos+estão+abaixo!;Me+dê+uma+estrela!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 
    <div align="center">
      <a href="mailto: developer.edney@gmail.com">
@@ -28,14 +28,14 @@
 <br/>
 
 **Interesses:**  
-- 🎓 Estudante de Engenharia de Software  
+- 🎓 Engenharia de Software  
 - 💻 Desenvolvedor Back-end  
-- 🔗 Entusiasta de tecnologias Blockchain
+- 🔗 tecnologias Blockchain
 
 
 <br/>
 
-## 🛠 Technologies I Know
+## 🛠 Tecnologias que eu conheço:
 <div align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
